@@ -3,4 +3,3 @@ Summaries and notes while studying ECPPT2024
 
 
 ## First section is PowerShell for pentester
-it include many topic

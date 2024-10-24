@@ -2,4 +2,4 @@
 Summaries and notes while studying ECPPT2024
 
 
-##First section is PowerShell for pentester
+## First section is PowerShell for pentester

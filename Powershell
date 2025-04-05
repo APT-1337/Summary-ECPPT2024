@@ -1,0 +1,8 @@
+### create user use net command 
+```
+net user /add Tristan greatpassword
+```
+### add user to administrators group
+```
+net localgroup Administrators Tristan /add
+```
